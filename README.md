@@ -16,3 +16,8 @@ import math
 print(math.PI)
 ```
 
+## Latex
+```latex
+$\frac{100}{2}$
+```
+
