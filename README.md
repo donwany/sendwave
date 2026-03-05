@@ -1,1 +1,1 @@
-New feature 2 added
+## New feature 2 added
